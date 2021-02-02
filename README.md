@@ -1,2 +1,2 @@
-# project1
-Spam detection repository
+# Titanic_kaggle
+Introduction to basic kaggle competition into machine learning data.
